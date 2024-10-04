@@ -56,7 +56,8 @@
 
 ### :bar_chart: Languages and Tools I've Used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/ADIR360/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIR360&layout=compact&theme=vision-friendly-dark)](https://github.com/ADIR360/github-readme-stats)
+
 <!---
 ADIR360/ADIR360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
