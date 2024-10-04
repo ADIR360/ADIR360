@@ -3,7 +3,7 @@
 <div align="center">
 
 ### :wave: Hi  
-### I’m @ADIR360
+### I’m Arush
 
 </div>
 
