@@ -22,9 +22,10 @@
 ---
 <div align="center">
 
-### :wave: About Me
+### :information_source: About Me
 
 </div>
+
 
 
 👨‍💻 I’m a passionate Cybersecurity student with hands-on experience in identifying and mitigating various cyber threats.
