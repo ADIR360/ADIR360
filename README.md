@@ -1,5 +1,5 @@
   <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxcmFtMDBmcnNzMms3Z292ODNkbjh3cmgxOXp2OGZibzJqaDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100"/> </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxcmFtMDBmcnNzMms3Z292ODNkbjh3cmgxOXp2OGZibzJqaDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100vh"/> </div>
   - 👋 Hi, I’m @ADIR360
   <div id="badges">
   <a href="https://www.linkedin.com/in/arush-dubey-358840244/">
