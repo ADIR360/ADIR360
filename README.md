@@ -1,11 +1,12 @@
   <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxcmFtMDBmcnNzMms3Z292ODNkbjh3cmgxOXp2OGZibzJqaDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100vh"/> </div>
-  <div align="center">
+<div align="center">
 
-### : WAVE: Hi
+### :wave: Hi  
 ### I’m @ADIR360
 
-</div >
+</div>
+
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arush-dubey-358840244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
