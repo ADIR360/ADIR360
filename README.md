@@ -2,7 +2,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxcmFtMDBmcnNzMms3Z292ODNkbjh3cmgxOXp2OGZibzJqaDJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100vh"/> </div>
   <div align="center">
 
-### 👋 Hi, I’m @ADIR360
+### 👋 Hi,
+### I’m @ADIR360
 
 </div>
   <div id="badges">
