@@ -12,15 +12,20 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-:male_technologist: I’m a Cybersecurity student with in-depth knowledge of various cyber attacks and defense mechanisms.
 
-:hammer_and_wrench: Actively working on projects that promote security from cyber attacks and collaborating on IoT-based projects.
+---
+<div align="center">
 
-:eyes: Exploring web development projects and contributing to team-building activities.
+### :wave: About Me
 
-:seedling: Currently learning Java and C++ to broaden my skill set.
+</div>
 
-:mailbox: How to reach me:
+
+:male_technologist: I’m a passionate Cybersecurity student with hands-on experience in identifying and mitigating various cyber threats.
+:hammer_and_wrench: I actively work on projects that enhance security measures and collaborate on IoT-based projects to improve tech innovation.
+:eyes: I enjoy exploring web development and contributing to coding and team-building projects.
+:seedling: Currently expanding my skills by learning Java and C++.
+
 
 ---
 
