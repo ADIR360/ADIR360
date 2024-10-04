@@ -22,8 +22,11 @@
 
 
 :male_technologist: I’m a passionate Cybersecurity student with hands-on experience in identifying and mitigating various cyber threats.
+
 :hammer_and_wrench: I actively work on projects that enhance security measures and collaborate on IoT-based projects to improve tech innovation.
+
 :eyes: I enjoy exploring web development and contributing to coding and team-building projects.
+
 :seedling: Currently expanding my skills by learning Java and C++.
 
 
