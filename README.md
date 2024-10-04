@@ -12,14 +12,15 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-- I am a cyberSecurity Student
-- I have deep working knowledge about attacks related to CyberSecurity
-- I am activtly working on project which help promote Security from Cyber attack
-- I am also working in IOT space in a collabrative project  
-- 👀 I’m interested in web development projects
-- 🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on team building and coding projects
-- 📫 Reach me at arushdubey360@gmail.com
+:male_technologist: I’m a Cybersecurity student with in-depth knowledge of various cyber attacks and defense mechanisms.
+
+:hammer_and_wrench: Actively working on projects that promote security from cyber attacks and collaborating on IoT-based projects.
+
+:eyes: Exploring web development projects and contributing to team-building activities.
+
+:seedling: Currently learning Java and C++ to broaden my skill set.
+
+:mailbox: How to reach me:
 
 ---
 
