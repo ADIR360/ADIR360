@@ -21,7 +21,7 @@
 </div>
 
 
-:male_technologist: I’m a passionate Cybersecurity student with hands-on experience in identifying and mitigating various cyber threats.
+👨‍💻: I’m a passionate Cybersecurity student with hands-on experience in identifying and mitigating various cyber threats.
 
 :hammer_and_wrench: I actively work on projects that enhance security measures and collaborate on IoT-based projects to improve tech innovation.
 
