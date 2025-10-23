@@ -214,10 +214,3 @@ console.log(arush.getIntro());
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-### 💬 "Building secure systems, one line of code at a time"
-
-**✨ Thanks for visiting! Check out my [portfolio](https://arushisdumb.online) and let's collaborate on securing the digital world! ✨**
-
-<img src="https://komarev.com/ghpvc/?username=ADIR360&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-</div>
